@@ -1,2 +1,2 @@
-def using_push(array, element)
+def using_push(array, string)
   
