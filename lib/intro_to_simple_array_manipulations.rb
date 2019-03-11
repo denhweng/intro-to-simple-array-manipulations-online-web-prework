@@ -26,4 +26,4 @@ def shift_with_args(ice_cream_brands)
   return brands_removed
 end
 
-def using_concat
+def using_concat(array1, array2)
