@@ -32,5 +32,5 @@ end
 
 def using_insert(array, element)
   new_array = array.insert(4, element)
-  return new_array
+  p new_array
 end
