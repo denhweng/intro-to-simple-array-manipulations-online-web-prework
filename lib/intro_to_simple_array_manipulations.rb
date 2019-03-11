@@ -21,4 +21,5 @@ def using_shift(array)
   return new_array
 end
 
-def shift_with_args
+def shift_with_args(ice_cream_brands)
+  
