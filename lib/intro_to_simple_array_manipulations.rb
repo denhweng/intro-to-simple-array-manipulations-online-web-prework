@@ -13,5 +13,5 @@ end
 
 def pop_with_args(array)
   new_array = array.pop(2)
-  puts new_array
+  return new_array
 end
