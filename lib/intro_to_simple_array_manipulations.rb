@@ -20,3 +20,4 @@ def using_shift(array)
   new_array = array.shift 
   return new_array
 end
+
